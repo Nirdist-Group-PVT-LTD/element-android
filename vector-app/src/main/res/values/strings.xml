@@ -7,4 +7,5 @@
     <string name="default_homeserver_url">https://nirdist.com.np</string>
     <string name="default_push_gateway_url">https://nirdist.com.np/_matrix/push/v1/notify</string>
     <string name="permalink_base_url">https://nirdist.com.np</string>
+    <string name="app_name">Nirdist</string>
 </resources>
